@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L2.GameStore.ProcessOrder", "L2.GameStore.ProcessOrder.Api\L2.GameStore.ProcessOrder.csproj", "{59C989A5-4827-44E6-8BB8-BA9C69AF6C67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L2.GameStore.ProcessOrder.Tests", "L2.GameStore.ProcessOrder.Tests\L2.GameStore.ProcessOrder.Tests.csproj", "{68E32EE8-30D6-4477-9A6C-BB1AA53F57A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C989A5-4827-44E6-8BB8-BA9C69AF6C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C989A5-4827-44E6-8BB8-BA9C69AF6C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C989A5-4827-44E6-8BB8-BA9C69AF6C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C989A5-4827-44E6-8BB8-BA9C69AF6C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E32EE8-30D6-4477-9A6C-BB1AA53F57A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E32EE8-30D6-4477-9A6C-BB1AA53F57A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E32EE8-30D6-4477-9A6C-BB1AA53F57A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E32EE8-30D6-4477-9A6C-BB1AA53F57A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9155AD98-DEBE-406E-9E52-339C71AF8589}
+	EndGlobalSection
+EndGlobal

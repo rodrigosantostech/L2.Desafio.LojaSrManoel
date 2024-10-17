@@ -1,0 +1,6 @@
+@L2.GameStore.ProcessOrder_HostAddress = http://localhost:5079
+
+GET {{L2.GameStore.ProcessOrder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
